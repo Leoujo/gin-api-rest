@@ -17,7 +17,7 @@ This is a boilerplate designed for training purposes. This project covers severa
 
 ### Clone repository
 
-`git clone https://github.com/Leoujo/takestay`
+`git clone https://github.com/Leoujo/gin-api-rest.git`
 
 ### 1. Add your .env file
 `create based on the .env.template folder`
