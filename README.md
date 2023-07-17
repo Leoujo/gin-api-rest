@@ -34,8 +34,8 @@ This is a boilerplate designed for training purposes. This project covers severa
 - Create student-> POST http://localhost:8080/students
 
 - Get all students -> GET http://localhost:8080/students
-- Get student by id -> GET http://localhost:8080/students/:id
-- Get student by cpf -> GET http://localhost:8080/students/cpf/:cpf
+- Get student by ID -> GET http://localhost:8080/students/:id
+- Get student by CPF -> GET http://localhost:8080/students/cpf/:cpf
 
 - Edit student by ID -> PATCH http://localhost:8080/students/:id
 - Delete student by ID -> DELETE http://localhost:8080/students/:id
