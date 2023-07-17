@@ -30,3 +30,12 @@ This is a boilerplate designed for training purposes. This project covers severa
 
 `go run main.go`
 
+## Endpoints 
+- Create student-> DELETE http://localhost:8080/students
+
+- Get all students -> GET http://localhost:8080/students
+- Get student by id -> GET http://localhost:8080/students/:id
+- Get student by cpf -> GET http://localhost:8080/students/cpf/:cpf
+
+- Edit student by ID -> PATCH http://localhost:8080/students/:id
+- Delete student by ID -> DELETE http://localhost:8080/students/:id
